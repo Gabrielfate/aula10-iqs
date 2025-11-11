@@ -3,5 +3,5 @@ public class main public class Main {
         System.out.println("Aula 10 funcionando!");
     }
 }
-{
-}
+
+
